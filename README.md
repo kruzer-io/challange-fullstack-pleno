@@ -2,14 +2,12 @@
 
 Desenvolver uma aplicação completa (front-end, back-end e banco de dados) utilizando ReactJS, Node.js e MongoDB. Além disso, o candidato deverá implementar testes unitários tanto para o front-end quanto para o back-end.
 
-**Descrição do Projeto**
-- A aplicação será um sistema simples de gestão de catálogo de produtos, onde os usuários podem criar, ler, atualizar e excluir produtos e SKUs.
-- Cada produto terá informações básicas como nome, código, EAN, descrição e imagem.
-- Cada SKU estará associado a um produto e também terá informações básicas.
+#### Descrição do Projeto
+A aplicação será um sistema simples de gestão de catálogo de produtos, onde os usuários podem criar, ler, atualizar e excluir produtos e SKUs.
 
 ## **Requisitos do Projeto:**
 
-### **Front-end (ReactJS)**
+### **Front-end - Utilizar ReactJS**
 
 #### **1. Interface de Usuário:**
 - Página principal com a lista de produtos.
@@ -21,7 +19,7 @@ Desenvolver uma aplicação completa (front-end, back-end e banco de dados) util
 - Funcionalidade para editar um SKU existente.
 - Funcionalidade para excluir um SKU.
 
-#### **2. Components**
+#### **2. Componentes**
 - Componente ProductList para exibir a lista de produtos.
 - Componente ProductForm para adicionar/editar produtos.
 - Componente ProductItem para cada item da lista de produtos.
@@ -36,7 +34,7 @@ Desenvolver uma aplicação completa (front-end, back-end e banco de dados) util
 #### **4. Estilização**
 - Utilizar uma biblioteca de componentes para React com suporte a tailwind para estilizar a aplicação.
 
-### **Back-end (NodeJS e KOA)**
+### **Back-end - Utilizar NodeJS e KOA**
 
 #### **1. API RESTful:**
 - Endpoint para criar um novo produto: POST /api/products
@@ -55,7 +53,7 @@ Desenvolver uma aplicação completa (front-end, back-end e banco de dados) util
 - Implementar CORS para permitir requisições do front-end.
 - Tratar erros e retornar respostas apropriadas.
 
-### **Banco de Dados (MongoDB)**
+### **Banco de Dados - Utilizar MongoDB**
 
 #### **1. Modelo de Dados:**
 - Criar um modelo de produto com os seguintes campos: nome, código, descrição e imagem.
