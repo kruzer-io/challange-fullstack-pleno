@@ -62,7 +62,7 @@ A aplicação será um sistema simples de gestão de catálogo de produtos, onde
 ### **Entregáveis**
 - Código fonte da aplicação hospedado em um repositório público no GitHub.<br/>
 - Instruções claras para rodar a aplicação localmente (de preferência no arquivo README).
-- Ao finalizar, enviar e-mail para **felipe.martins@krzlabs.io** com cópia para **andre.ciornavei@krzlabs.io** e **eduardo.fernandes@krzlabs.io**.
+- Ao finalizar, enviar e-mail para **felipe.martins@krzlabs.io** com cópia para **andre.ciornavei@krzlabs.io** e **eduardo.fernandes@krzlabs.io**, notificando o término do desafio e com link para o repositório público.
 - Esse desafio deve ser entregue em até 7 dias após a entrevista inicial.
   
 ---
